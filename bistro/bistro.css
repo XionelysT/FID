@@ -20,7 +20,7 @@ h1 {
   font: bold 1.5em Georgia, serif;
   text-shadow: .1em .1em .2em gray;
   color: olive;
-  text-align;
+  text-align: center;
 }
 h2 {
   font-size: 1em;
