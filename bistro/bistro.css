@@ -70,10 +70,10 @@ a:visted {
   color: gray;
 }
 a:hover {
-  color: #c700f2;
+  color: #bcde92;
   background-color: white;
 }
 a:active {
-  color: #ff00ff
+  color: #bcde92
   background-color: gray;
   </style>
