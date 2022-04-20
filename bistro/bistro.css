@@ -14,7 +14,8 @@ h1{
 }
 h2{
   color: #d1633c;
-  font-size: 1em;
+  font-size: 2em;
+  text-align: center;
 }
 a:link { color: maroon; }
 a:visited: { color: gray; }
