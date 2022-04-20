@@ -32,6 +32,9 @@ dt {
   font-weight: bold;
   text-align: center;
 }
+dd {
+ text-align: center;
+ text-justify: .5em;
 strong {
   font-style: italic;
 }
