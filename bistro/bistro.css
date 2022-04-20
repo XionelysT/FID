@@ -30,6 +30,7 @@ h2 {
 }
 dt {
   font-weight: bold;
+  text-align: center;
 }
 strong {
   font-style: italic;
