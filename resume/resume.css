@@ -8,9 +8,9 @@ body{
 }
 header{
   margin-top: 0;
-  padding: 3em 1em 2em 1em
-  color: #DDA0DD
-  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
+  padding: 3em 1em 2em 1em;
+  color: #DDA0DD;
+  font-family: 'Source Serif Pro', serif;
 }
 h1{
 text-align: center;
