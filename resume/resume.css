@@ -33,11 +33,11 @@ a:visted {
   color: #97976a;
 }
 a:hover {
-  color: #c700f2;
+  color:  #97976a;
   background-color: #fff;
 }
 a:active {
-  color: #ff00ff
+  color: #df949d
   background-color: white;
 }
 
