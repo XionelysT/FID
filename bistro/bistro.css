@@ -79,4 +79,8 @@ a:hover {
 a:active {
   color: #bcde92
   background-color: gray;
+
+ol, ul {
+     list-style-type: none;
+}
   </style>
