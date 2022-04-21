@@ -1,0 +1,44 @@
+<style>
+body{
+ background-color:#f7efda;
+ margin: 0 15%;
+ font-family: Georgia, serif;
+ font-size: 100%;
+ line-height: 175%
+}
+header{
+  margin-top: 0;
+  padding: 3em 1em 2em 1em
+  color: #DDA0DD
+  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
+}
+h1{
+text-align: center;
+font-family: serif;
+font-weight: lighter;
+text-transform: full-width;
+color: #df949d;
+border-bottom: 1px solid #97976a;
+}
+h2{
+ font-size: 1em;
+ font-weight: lighter;
+ font-family: sans-serif;
+ text-align: center;
+}
+a:link {
+  color: #df949d;
+}
+a:visted {
+  color: #97976a;
+}
+a:hover {
+  color: #c700f2;
+  background-color: #fff;
+}
+a:active {
+  color: #ff00ff
+  background-color: white;
+}
+
+</style>
